@@ -1,0 +1,25 @@
+name: voice_db_display
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  audio_session: ^0.1.21
+  flutter:
+    sdk: flutter
+  flutter_sound: ^9.16.3
+  intl: ^0.19.0
+  logger: ^2.4.0
+  path_provider: ^2.1.4
+  permission_handler: ^10.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true

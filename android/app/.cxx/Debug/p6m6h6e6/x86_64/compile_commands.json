@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/PersonalFiles/CodeProjects/voice_db_display/android/app/.cxx/Debug/p6m6h6e6/x86_64",
+  "command": "D:\\Softwares\\adt-bundle-windows-x86_64-20140702\\sdk\\ndk\\23.1.7779620\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --sysroot=D:/Softwares/adt-bundle-windows-x86_64-20140702/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DgetdB_EXPORTS -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fexceptions -frtti -stdlib=libc++ -g  -fno-limit-debug-info -fPIC -o CMakeFiles\\getdB.dir\\getdB.cpp.o -c D:\\PersonalFiles\\CodeProjects\\voice_db_display\\android\\app\\src\\main\\cpp\\getdB.cpp",
+  "file": "D:\\PersonalFiles\\CodeProjects\\voice_db_display\\android\\app\\src\\main\\cpp\\getdB.cpp"
+}
+]

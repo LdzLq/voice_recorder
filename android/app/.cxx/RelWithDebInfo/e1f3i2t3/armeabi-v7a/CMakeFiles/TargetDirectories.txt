@@ -1,0 +1,3 @@
+D:/PersonalFiles/CodeProjects/voice_db_display/android/app/.cxx/RelWithDebInfo/e1f3i2t3/armeabi-v7a/CMakeFiles/getdB.dir
+D:/PersonalFiles/CodeProjects/voice_db_display/android/app/.cxx/RelWithDebInfo/e1f3i2t3/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/PersonalFiles/CodeProjects/voice_db_display/android/app/.cxx/RelWithDebInfo/e1f3i2t3/armeabi-v7a/CMakeFiles/rebuild_cache.dir

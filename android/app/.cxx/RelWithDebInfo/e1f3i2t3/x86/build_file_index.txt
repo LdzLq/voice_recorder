@@ -1,0 +1,1 @@
+D:\PersonalFiles\CodeProjects\voice_db_display\android\app\src\main\cpp\CMakeLists.txt
